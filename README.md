@@ -1,4 +1,4 @@
-# rtreport
+# rtreport service installation
 
 AppSettings.json içinde bazı konfigurasyonlar yapmalısın.
 
